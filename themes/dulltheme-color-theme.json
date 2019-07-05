@@ -1,0 +1,22 @@
+{
+	"name": "dulltheme",
+	"type": "dark",
+	"colors": {
+                "editor.background": "#272d35",
+                "editor.foreground": "#ffffff",
+		"sideBar.background": "#161b21",
+		"editorGroupHeader.tabsBackground": "#161b21",
+		"tab.activeBackground": "#262d36",
+		"tab.inactiveBackground": "#1e242b",
+		"sideBarTitle.foreground": "#9d9fa3",
+		"sideBarSectionHeader.background": "#353e4b",
+		"list.activeSelectionBackground": "#404448",
+		"list.activeSelectionForeground": "#bcbfc3",
+		"activityBar.background": "#1f262e",
+		"statusBar.background": "#12161a",
+                "editor.selectionBackground": "#434D5B",
+        "editor.lineHighlightBackground": "#343c48",
+        "editor.lineHighlightBorder": "#353e4a"
+	},
+	"tokenColors": "./scotchy.tmTheme"
+}
